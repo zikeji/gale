@@ -5,6 +5,7 @@
 	import Contextbar from '$lib/menu/Contextbar.svelte';
 	import Statusbar from '$lib/menu/Statusbar.svelte';
 	import Toasts from '$lib/menu/Toasts.svelte';
+	import ResizeHandles from '$lib/components/ResizeHandles.svelte';
 
 	import { onMount } from 'svelte';
 	import NavbarLink from '$lib/menu/NavbarLink.svelte';
@@ -50,6 +51,8 @@
 	<Statusbar />
 	<Toasts />
 </main>
+
+<ResizeHandles />
 
 <InstallModPopup />
 <InstallProgressPopup />
