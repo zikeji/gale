@@ -44,9 +44,9 @@
 	},
 	"plugins": {
 		"updater": {
-			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDNDRkNCMzE4NDIyOTQ1QjQKUldTMFJTbENHTFA4UE9Fd1RocjRDRm9uVmdiUlUxdmw1ZEwvaXRJZW45VFVSeXozUkYxaUFmZEsK",
+			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDhCRDIxNDhDQzRGQzMzQzQKUldURU0vekVqQlRTaStEK3lQYkRycHprWU5TYjFUMjl3c0JtZ1RFRjRlK1FtR1BxZUo0VzdXbU4K",
 			"endpoints": [
-				"https://gist.githubusercontent.com/Kesomannen/58b4f08009e7b7b5baaea253ebccb94d/raw/"
+				"https://gist.githubusercontent.com/zikeji/8a656e373b773c41785acdca8b432dcb/raw/"
 			]
 		},
 		"deep-link": {
